@@ -282,8 +282,9 @@ address {
     font-family: 'Roboto',sans-serif;
     font-size: 16px;
     line-height: 1.5;
+    font-weight: 500;
     letter-spacing: 0.32px;
-    width: 264px;
+    max-width: 288px;
 }
 
 .section-tree-divs {
